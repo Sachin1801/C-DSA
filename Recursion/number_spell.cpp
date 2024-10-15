@@ -13,7 +13,7 @@ void number_spell(int n){
     number_spell(n/10);
     int digit = n%10;
     cout<<number[digit]<<" ";
-
+    cout<<number[digit]<<" ";
     return;
 }
 
