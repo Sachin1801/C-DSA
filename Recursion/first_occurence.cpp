@@ -48,6 +48,7 @@ int main(){
 
     ans = last_occurence(arr,n,key);
     cout<<ans<<endl;
+    cout<<ans<<endl;
 
     return 0;
 }

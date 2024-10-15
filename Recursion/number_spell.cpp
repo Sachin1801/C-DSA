@@ -14,6 +14,7 @@ void number_spell(int n){
     int digit = n%10;
     cout<<number[digit]<<" ";
     cout<<number[digit]<<" ";
+    // cout<<number[digit]<<" ";
     return;
 }
 
