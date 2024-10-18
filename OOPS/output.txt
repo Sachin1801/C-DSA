@@ -1,0 +1,14 @@
+Name GoPRO8
+Id: 2
+MRP: 200
+SP: 190
+-----------------
+
+Name OLDCAMERA2
+Id: 2
+MRP: 200
+SP: 190
+-----------------
+
+Deleting nameOLDCAMERA2
+Deleting nameGoPRO8
