@@ -3,6 +3,7 @@
         "ios": "cpp",
         "stack": "cpp",
         "iostream": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "vector": "cpp"
     }
 }
