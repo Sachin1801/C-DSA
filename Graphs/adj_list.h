@@ -1,5 +1,5 @@
 #include<iostream>
-#include<list>
+#include<list> //doubly linked list 
 using namespace std ;
 
 class Graph{
@@ -9,7 +9,8 @@ class Graph{
     public:
         Graph(int v){
             V = v;
-            l = new list<int>[V]; 
+            l = new list<int>[V]; //this is an array of size v each element
+                                // in the array is linked list pointer 
         }
 
         void addEdge(int i, int j, bool undir =true){
