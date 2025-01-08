@@ -16,13 +16,14 @@ int main(){
     h.push(6);
     h.push(16);
     h.push(4);
+    // h.push(1);
 
     while(!h.isEmpty()){
         cout<<h.top()<<" ";
         h.pop();
     }
 
-    h.push(1);
+    
     while(!h.isEmpty()){
         cout<<h.top()<<" ";
         h.pop();
